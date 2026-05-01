@@ -1,6 +1,6 @@
 //TAG AND ANNOTATION
 
-import {test,expect} from "@playwright/test"
+import {test,expect1} from "@playwright/test"
 
 test("Test 1 @smoke",async()=>{
     console.log("SMOKE")
